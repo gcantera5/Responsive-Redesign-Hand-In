@@ -1,1 +1,1 @@
-# Responsive-Redesign-Hand-In
+# Responsive-Redesign
